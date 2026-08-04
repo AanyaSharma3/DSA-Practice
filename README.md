@@ -7,8 +7,17 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
