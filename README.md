@@ -10,11 +10,13 @@ Learning and Solving DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,17 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
