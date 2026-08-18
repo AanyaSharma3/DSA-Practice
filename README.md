@@ -13,6 +13,7 @@ Learning and Solving DSA Problems
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
