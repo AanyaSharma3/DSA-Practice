@@ -72,6 +72,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
