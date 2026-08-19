@@ -13,6 +13,7 @@ Learning and Solving DSA Problems
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+| [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
 ## Linked List
 |  |
 | ------- |
@@ -102,8 +104,17 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
