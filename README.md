@@ -9,6 +9,7 @@ Learning and Solving DSA Problems
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -36,6 +38,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -95,6 +98,7 @@ Learning and Solving DSA Problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
