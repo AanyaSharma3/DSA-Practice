@@ -44,6 +44,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
@@ -107,6 +108,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -140,4 +142,16 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
