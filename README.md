@@ -34,12 +34,14 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
