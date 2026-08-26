@@ -17,6 +17,7 @@ Learning and Solving DSA Problems
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
