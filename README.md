@@ -15,6 +15,7 @@ Learning and Solving DSA Problems
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -157,4 +158,12 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
