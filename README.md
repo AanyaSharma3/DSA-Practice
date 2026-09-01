@@ -31,6 +31,7 @@ Learning and Solving DSA Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 ## Greedy
@@ -41,6 +42,7 @@ Learning and Solving DSA Problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -80,6 +82,7 @@ Learning and Solving DSA Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -188,4 +191,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
