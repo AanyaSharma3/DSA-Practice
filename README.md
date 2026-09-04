@@ -34,6 +34,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
@@ -96,6 +97,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -198,4 +200,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
