@@ -7,6 +7,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ Learning and Solving DSA Problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 ## Design
@@ -104,6 +106,7 @@ Learning and Solving DSA Problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
