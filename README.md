@@ -36,6 +36,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -57,6 +59,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -64,6 +67,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
