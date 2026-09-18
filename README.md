@@ -55,6 +55,7 @@ Learning and Solving DSA Problems
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [1108-defanging-an-ip-address](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
