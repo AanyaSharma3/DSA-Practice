@@ -11,6 +11,7 @@ Learning and Solving DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -129,6 +131,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -238,4 +241,12 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
