@@ -28,6 +28,7 @@ Learning and Solving DSA Problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Learning and Solving DSA Problems
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
