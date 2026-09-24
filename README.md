@@ -79,6 +79,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
 ## Design
@@ -132,6 +133,7 @@ Learning and Solving DSA Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
