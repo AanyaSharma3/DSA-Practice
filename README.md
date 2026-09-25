@@ -40,6 +40,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
@@ -55,6 +56,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -73,6 +75,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
@@ -258,4 +261,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
