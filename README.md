@@ -66,6 +66,7 @@ Learning and Solving DSA Problems
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -131,6 +132,7 @@ Learning and Solving DSA Problems
 | [0009-palindrome-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
@@ -284,4 +286,12 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
