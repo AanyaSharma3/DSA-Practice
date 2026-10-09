@@ -49,6 +49,7 @@ Learning and Solving DSA Problems
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
@@ -65,6 +66,7 @@ Learning and Solving DSA Problems
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
@@ -282,6 +284,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 ## Counting
 |  |
 | ------- |
