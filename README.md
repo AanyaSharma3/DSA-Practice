@@ -11,6 +11,7 @@ Learning and Solving DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -132,6 +133,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -233,6 +235,7 @@ Learning and Solving DSA Problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Union-Find
