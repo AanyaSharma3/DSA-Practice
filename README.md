@@ -13,6 +13,7 @@ Learning and Solving DSA Problems
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -155,6 +156,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
@@ -278,6 +280,7 @@ Learning and Solving DSA Problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
