@@ -11,6 +11,7 @@ Learning and Solving DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -290,6 +291,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 ## Counting
 |  |
