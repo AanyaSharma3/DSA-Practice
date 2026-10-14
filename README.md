@@ -215,11 +215,13 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -227,6 +229,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
