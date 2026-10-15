@@ -40,6 +40,7 @@ Learning and Solving DSA Problems
 | [0001-two-sum](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
@@ -222,6 +223,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -234,6 +236,7 @@ Learning and Solving DSA Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -252,6 +255,7 @@ Learning and Solving DSA Problems
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
