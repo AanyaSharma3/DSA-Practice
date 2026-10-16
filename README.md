@@ -96,6 +96,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
@@ -125,6 +126,7 @@ Learning and Solving DSA Problems
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -160,6 +162,7 @@ Learning and Solving DSA Problems
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -173,6 +176,7 @@ Learning and Solving DSA Problems
 | [0023-merge-k-sorted-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -277,6 +281,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
