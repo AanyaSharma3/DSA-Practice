@@ -22,6 +22,7 @@ Learning and Solving DSA Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0485-max-consecutive-ones](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -54,6 +55,7 @@ Learning and Solving DSA Problems
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
@@ -231,6 +233,7 @@ Learning and Solving DSA Problems
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,12 +247,14 @@ Learning and Solving DSA Problems
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -261,14 +266,17 @@ Learning and Solving DSA Problems
 | ------- |
 | [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Manacher
 |  |
 | ------- |
@@ -317,4 +325,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
