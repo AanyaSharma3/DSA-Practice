@@ -16,6 +16,7 @@ Learning and Solving DSA Problems
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -84,6 +85,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
@@ -199,6 +201,7 @@ Learning and Solving DSA Problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -337,4 +340,8 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
