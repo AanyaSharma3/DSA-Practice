@@ -17,6 +17,7 @@ Learning and Solving DSA Problems
 | [0056-merge-intervals](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -54,6 +55,7 @@ Learning and Solving DSA Problems
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -86,6 +88,7 @@ Learning and Solving DSA Problems
 | [0020-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
@@ -202,6 +205,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -260,6 +264,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
