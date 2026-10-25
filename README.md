@@ -149,6 +149,7 @@ Learning and Solving DSA Problems
 | [0048-rotate-image](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -157,6 +158,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Bit Manipulation
