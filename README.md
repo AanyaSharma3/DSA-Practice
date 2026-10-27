@@ -89,6 +89,7 @@ Learning and Solving DSA Problems
 | [0032-longest-valid-parentheses](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
@@ -231,6 +232,7 @@ Learning and Solving DSA Problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -239,6 +241,7 @@ Learning and Solving DSA Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
@@ -251,6 +254,7 @@ Learning and Solving DSA Problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
