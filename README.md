@@ -32,6 +32,7 @@ Learning and Solving DSA Problems
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -93,6 +94,7 @@ Learning and Solving DSA Problems
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2104-sum-of-subarray-ranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -114,6 +116,7 @@ Learning and Solving DSA Problems
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0307-range-sum-query-mutable) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
