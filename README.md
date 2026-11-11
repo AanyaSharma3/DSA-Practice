@@ -28,6 +28,7 @@ Learning and Solving DSA Problems
 | [0485-max-consecutive-ones](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0934-shortest-bridge](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0934-shortest-bridge) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
@@ -254,6 +255,7 @@ Learning and Solving DSA Problems
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0934-shortest-bridge](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0934-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -271,6 +273,7 @@ Learning and Solving DSA Problems
 | [0207-course-schedule](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0934-shortest-bridge](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -279,6 +282,7 @@ Learning and Solving DSA Problems
 | [0085-maximal-rectangle](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0934-shortest-bridge](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
