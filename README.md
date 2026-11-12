@@ -33,6 +33,7 @@ Learning and Solving DSA Problems
 | [0994-rotting-oranges](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+| [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -49,6 +50,7 @@ Learning and Solving DSA Problems
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
+| [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Learning and Solving DSA Problems
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Stack
@@ -185,6 +188,7 @@ Learning and Solving DSA Problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
+| [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 ## Linked List
 |  |
 | ------- |
@@ -345,6 +349,7 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
+| [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
