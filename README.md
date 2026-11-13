@@ -27,6 +27,7 @@ Learning and Solving DSA Problems
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0485-max-consecutive-ones](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0934-shortest-bridge](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0934-shortest-bridge) |
 | [0946-validate-stack-sequences](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0946-validate-stack-sequences) |
@@ -49,6 +50,7 @@ Learning and Solving DSA Problems
 | [0133-clone-graph](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 ## Dynamic Programming
@@ -81,6 +83,7 @@ Learning and Solving DSA Problems
 | [0049-group-anagrams](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
@@ -185,6 +188,7 @@ Learning and Solving DSA Problems
 | [0268-missing-number](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
@@ -209,6 +213,7 @@ Learning and Solving DSA Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1094-car-pooling) |
@@ -348,6 +353,7 @@ Learning and Solving DSA Problems
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1366-rank-teams-by-votes](https://github.com/AanyaSharma3/DSA-Practice/tree/master/1366-rank-teams-by-votes) |
 ## Euclidean Algorithm
@@ -378,4 +384,12 @@ Learning and Solving DSA Problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AanyaSharma3/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
